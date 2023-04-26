@@ -23,7 +23,7 @@ To run the LXDG experiments, simply run
 python run.py
 ```
 
-Comment/uncomment the relevent lines at the end of the file to run the different experiments.
+Comment/uncomment the relevent lines at the end of the 'run.py' file to run the different experiments.
 
 Here is an example configuration for running LXDG+EWC over 50 tasks:
 
