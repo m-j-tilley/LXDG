@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="LXDG_logo.png" />
+</p>
+
 # LXDG: Learned Context-Dependent Gating for Continual Learning
 
 LXDG is a continual learning approach that uses learned context-dependent gating to handle catastrophic forgetting in neural networks. In this code it is tested on the benchmarks permuted MNIST and rotated MNIST.
