@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LXDG_logo.png" />
+  <img src="LXDG_logo.png" width="200" />
 </p>
 
 # LXDG: Learned Context-Dependent Gating for Continual Learning
